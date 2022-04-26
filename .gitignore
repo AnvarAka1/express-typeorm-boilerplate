@@ -4,6 +4,8 @@ build/
 tmp/
 temp/
 
+.env
+
 # Logs
 logs
 *.log
